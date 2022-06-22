@@ -5,6 +5,6 @@ public class NewBranch {
     }
 
     public void testBranchMethod() {
-        
+
     }
 }
